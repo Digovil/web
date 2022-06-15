@@ -87,6 +87,12 @@ h6 {
     border: 8px solid #2c2f3f;
 }
 
+.rounded-circle {
+    width: 150px !important;
+	height: 150px !important;
+	object-fit: cover;
+}
+
 #header .profile h1 {
     font-size: 24px;
     margin: 0;
@@ -340,6 +346,7 @@ section {
 .section-title p {
     margin-bottom: 0;
 }
+
 
 
 /*--------------------------------------------------------------
